@@ -1,2 +1,0 @@
-# AlgorithmsLibrary
-My Algorithms Library
